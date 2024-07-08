@@ -9,7 +9,8 @@ Contact Page: A section with my contact information and a form to reach out to m
 
 Technologies Used
 
-HTML5
+HTML
+
 CSS
 
 How to View
